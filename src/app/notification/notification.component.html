@@ -1,0 +1,8 @@
+<div>
+    <button type="button" (click)="connect()">Connect</button>
+    <button type="button" (click)="disconnect()">Disconnect</button>
+  </div>
+  
+  <div>
+    <span *ngFor="let notification of notifications">{{ notification }} </span>
+  </div>

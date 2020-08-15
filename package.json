@@ -19,7 +19,10 @@
     "@angular/platform-browser": "~9.1.11",
     "@angular/platform-browser-dynamic": "~9.1.11",
     "@angular/router": "~9.1.11",
+    "@stomp/rx-stomp": "^0.3.5",
+    "@types/sockjs-client": "^1.1.1",
     "rxjs": "~6.5.4",
+    "sockjs-client": "^1.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
   },
